@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
-Author-Uzma Tahseen(Fiza)
+<br>
+Author-Uzma Tahseen(Fizu)
